@@ -1,4 +1,4 @@
-package com.transportjp.demo;
+package com.frowhy.demo;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.transportjp.demo;
+package com.frowhy.demo;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.transportjp.demo", appContext.getPackageName());
+        assertEquals("com.frowhy.demo", appContext.getPackageName());
     }
 }

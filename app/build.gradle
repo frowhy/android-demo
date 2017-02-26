@@ -6,7 +6,7 @@ android {
     compileSdkVersion 25
     buildToolsVersion "25.0.2"
     defaultConfig {
-        applicationId "com.transportjp.demo"
+        applicationId "com.frowhy.demo"
         minSdkVersion 25
         targetSdkVersion 25
         versionCode 1
